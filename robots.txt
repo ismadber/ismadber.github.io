@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ismadber.github.io/sitemap.ismadber.gz
+Sitemap: https://ismadber.github.io/app/sitemap.ismadber.gz
+Sitemap: https://ismadber.github.io/assets/sitemap.ismadber.gz
+Sitemap: https://ismadber.github.io/css/sitemap.ismadber.gz
+Sitemap: https://ismadber.github.io/data/sitemap.ismadber.gz
+Sitemap: https://ismadber.github.io/includes/sitemap.ismadber.gz
+Sitemap: https://ismadber.github.io/item/sitemap.ismadber.gz
+Sitemap: https://ismadber.github.io/src/sitemap.ismadber.gz
